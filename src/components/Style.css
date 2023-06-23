@@ -86,6 +86,8 @@ body{
     justify-content: center;
     display: flex;
     font-family: cursive;
+    display: inline-block;
+    padding: 5%;
   }
 
   .abilities,.ability-name{
@@ -151,8 +153,8 @@ body{
   margin-left: 4%;
   margin-top: 2%;
   margin-bottom: 5%;
-  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
-  padding: 7px 20px;
+  font-family: cursive;
+  padding: 7px ;
   text-align: center;
   text-decoration: none;
   transition: all 250ms;
