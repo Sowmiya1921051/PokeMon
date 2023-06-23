@@ -87,7 +87,8 @@ body{
     display: flex;
     font-family: cursive;
     display: inline-block;
-    padding: 5%;
+    padding-left: 3%;
+    padding-right: 4%;
   }
 
   .abilities,.ability-name{
@@ -163,6 +164,7 @@ body{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+ 
 }
 
 .button:hover {
